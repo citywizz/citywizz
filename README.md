@@ -12,7 +12,7 @@ WordPress and Ecommerce WooCommerce expert since 2010.
 - Twitter: [@citywizz](https://twitter.com/citywizz)
 - Web: [Citywizz.com](https://citywizz.com) 
 - Mail: contact@citywizz.com
-- Team : [@arrami](https://twitter.com/arrami)
+- Team : [@arrami](https://github.com/arrami)
 
 
 
