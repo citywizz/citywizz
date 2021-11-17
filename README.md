@@ -9,9 +9,11 @@ Citywizz publishes **news media, directories and online encyclopedic websites** 
 WordPress and Ecommerce WooCommerce expert since 2010.
 
 ### Contact info
-- Twitter: [@citywizz](https://twitter.com/citywizz). 
+- Twitter: [@citywizz](https://twitter.com/citywizz)
 - Web: [Citywizz.com](https://citywizz.com) 
 - Mail: contact@citywizz.com
+- Team : [@arrami](https://twitter.com/arrami)
+
 
 
 [![Citywizz GitHub stats](https://github-readme-stats.vercel.app/api?username=citywizz)](https://github.com/citywizz/github-readme-stats)
