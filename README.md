@@ -13,6 +13,9 @@ We work with **Oxygen Builder, WordPress Developpement, Greensock, Figma, D3.js,
 <img src="https://res.cloudinary.com/citywizz/image/upload/v1637246243/icons/d3_jmou8m.png" alt="D3JS" width="50" height="50">
 <img src="https://res.cloudinary.com/citywizz/image/upload/v1637246340/icons/nodejs_p06vt6.png" alt="NodeJS" width="50" height="50">
 <img src="https://res.cloudinary.com/citywizz/image/upload/v1637246418/icons/Angular_full_color_logo.svg_cojwau.png" alt="NodeJS" width="50" height="50">
+<img src="https://res.cloudinary.com/citywizz/image/upload/v1637246521/icons/Logo-Google-Search_fmzfox.svg" alt="GoogleSearch" width="50" height="50">  
+<img src="https://res.cloudinary.com/citywizz/image/upload/v1637246505/icons/Logo-Google-My-Business_aiqsop.svg" alt="GoogleSearch" width="50" height="50">
+<img src="https://res.cloudinary.com/citywizz/image/upload/v1637246493/icons/Google-Analytics_m8dbdn.svg" alt="GoogleSearch" width="50" height="50">
   </div>
 </div>
 
