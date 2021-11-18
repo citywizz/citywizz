@@ -1,6 +1,6 @@
 ## Greetings from Lyon (France) 👋
 
-SEO consulting and media website architecture. 
+SEO consulting and media website design and ecommerce store. 
 
 We work with **Oxygen Builder, WordPress Developpement, WooCommerce, Greensock, Figma, D3.js, NodeJS, Angular** technologies for **creative and SEO optimized websites and applications**.
 
