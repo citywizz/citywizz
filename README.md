@@ -24,15 +24,17 @@ We work with **Oxygen Builder, WordPress Developpement, WooCommerce, Greensock, 
 Citywizz publishes news media, directories and online encyclopedic websites like Kabyle.com, Amazigh 24, Lyon Info and VisitArpitania.
 <br />
 <br />
-<br />
-<br />
 WordPress and Ecommerce WooCommerce expert since 2010.
 <br />
 <br />
+
 ### Contact info
+
 - Phone: +33 6 11 23 15 78
 - Mail: contact@citywizz.com
 - Team : [@arrami](https://github.com/arrami)
+
+
     
 [![Citywizz GitHub stats](https://github-readme-stats.vercel.app/api?username=citywizz)](https://github.com/citywizz/github-readme-stats)
 <!--
