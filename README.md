@@ -5,9 +5,9 @@ SEO consulting and media website architecture.
 We work with **Figma, Oxygen Builder, Greensock, D3.js, WordPress Developpement and Angular** technologies for **creative and SEO optimized websites and applications**.
 
 <div align="center">
-  <div style="display: flex;">
-<img src="https://res.cloudinary.com/citywizz/image/upload/v1637244240/icons/gsap_nqdndw.png" alt="GSAP" width="50" height="50" style="vertical-align: top; float:left">
-<img src="https://res.cloudinary.com/citywizz/image/upload/v1637244013/icons/Logo-oxygen-builder_xqi2ks.svg" alt="Oxygen Builder" width="100%" height="50">
+  <div style="display: flex; align-items: flex-start;">
+<img src="https://res.cloudinary.com/citywizz/image/upload/v1637244240/icons/gsap_nqdndw.png" alt="GSAP" width="50" height="50" style="vertical-align: top;">
+<img src="https://res.cloudinary.com/citywizz/image/upload/v1637244013/icons/Logo-oxygen-builder_xqi2ks.svg" alt="Oxygen Builder" width="50" height="50">
   </div>
 </div>
 
