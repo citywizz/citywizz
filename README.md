@@ -21,7 +21,7 @@ We work with **Oxygen Builder, WordPress Developpement, WooCommerce, Greensock, 
 </div>
 <br />
 <br />
-Citywizz publishes **news media, directories and online encyclopedic websites** like Kabyle.com, Amazigh 24, Lyon Info and VisitArpitania.
+Citywizz publishes news media, directories and online encyclopedic websites like Kabyle.com, Amazigh 24, Lyon Info and VisitArpitania.
   
 WordPress and Ecommerce WooCommerce expert since 2010.
   
