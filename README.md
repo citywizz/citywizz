@@ -1,6 +1,6 @@
 ## Greetings from Lyon (France) 👋
   
-Citywizz Communications provide SEO consulting and media website design and ecommerce store. 
+Citywizz Communications provides SEO consulting and media website design and ecommerce store. 
 <br />
 <br />
 We work with **Oxygen Builder, WordPress Developpement, WooCommerce, Greensock, Figma, D3.js, NodeJS, Angular** technologies for **creative and SEO optimized websites and applications**.
