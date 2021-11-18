@@ -1,8 +1,9 @@
 ## Greetings from Lyon (France) 👋
 
-SEO consulting and media website design and ecommerce store. 
+Citywizz Communications provide SEO consulting and media website design and ecommerce store. 
 
 We work with **Oxygen Builder, WordPress Developpement, WooCommerce, Greensock, Figma, D3.js, NodeJS, Angular** technologies for **creative and SEO optimized websites and applications**.
+
 
 
 <div align="center">
@@ -19,9 +20,13 @@ We work with **Oxygen Builder, WordPress Developpement, WooCommerce, Greensock, 
 <img src="https://res.cloudinary.com/citywizz/image/upload/v1637246493/icons/Google-Analytics_m8dbdn.svg" alt="GoogleSearch" width="50" height="50">
 </div>
 
+
+
 Citywizz publishes **news media, directories and online encyclopedic websites** like Kabyle.com, Amazigh 24, Lyon Info and VisitArpitania.
 
+
 WordPress and Ecommerce WooCommerce expert since 2010.
+
 
 ### Contact info
 - Phone: +33 6 11 23 15 78
