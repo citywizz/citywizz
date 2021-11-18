@@ -4,6 +4,8 @@ SEO consulting and media website architecture.
 
 We work with **Figma, Oxygen Builder, Greensock, D3.js, WordPress Developpement and Angular** technologies for **creative and SEO optimized websites and applications**.
 
+<img src="https://res.cloudinary.com/citywizz/image/upload/v1637244013/icons/Logo-oxygen-builder_xqi2ks.svg" width="100%" height="100">
+
 Citywizz publishes **news media, directories and online encyclopedic websites** like Kabyle.com, Amazigh 24, Lyon Info and VisitArpitania.
 
 WordPress and Ecommerce WooCommerce expert since 2010.
