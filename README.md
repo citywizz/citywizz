@@ -2,12 +2,13 @@
 
 SEO consulting and media website architecture. 
 
-We work with **Oxygen Builder, WordPress Developpement, Greensock, Figma, D3.js, NodeJS, Angular** technologies for **creative and SEO optimized websites and applications**.
+We work with **Oxygen Builder, WordPress Developpement, WooCommerce, Greensock, Figma, D3.js, NodeJS, Angular** technologies for **creative and SEO optimized websites and applications**.
 
 
 <div align="center">
 <img src="https://res.cloudinary.com/citywizz/image/upload/v1637244013/icons/Logo-oxygen-builder_xqi2ks.svg" alt="Oxygen Builder" width="50" height="50">
 <img src="https://res.cloudinary.com/citywizz/image/upload/v1637246030/icons/Logo-Wordpress_ftwlp1.svg" alt="WordPress" width="50" height="50">
+<img src="https://res.cloudinary.com/citywizz/image/upload/v1637246910/icons/woocommerce_wdahhh.svg" alt="WordPress" width="50" height="50">
 <img src="https://res.cloudinary.com/citywizz/image/upload/v1637244240/icons/gsap_nqdndw.png" alt="GSAP" width="50" height="50" style="vertical-align: top;">
 <img src="https://res.cloudinary.com/citywizz/image/upload/v1637245930/icons/Figma-logo_ttqnno.svg" alt="Figma" width="50" height="50">
 <img src="https://res.cloudinary.com/citywizz/image/upload/v1637246243/icons/d3_jmou8m.png" alt="D3JS" width="50" height="50">
