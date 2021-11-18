@@ -5,7 +5,7 @@ SEO consulting and media website architecture.
 We work with **Oxygen Builder, WordPress Developpement, Greensock, Figma, D3.js, NodeJS, Angular** technologies for **creative and SEO optimized websites and applications**.
 
 
-  <div style="display: flex; justify-content:center">
+<div align="center">
 <img src="https://res.cloudinary.com/citywizz/image/upload/v1637244013/icons/Logo-oxygen-builder_xqi2ks.svg" alt="Oxygen Builder" width="50" height="50">
 <img src="https://res.cloudinary.com/citywizz/image/upload/v1637246030/icons/Logo-Wordpress_ftwlp1.svg" alt="WordPress" width="50" height="50">
 <img src="https://res.cloudinary.com/citywizz/image/upload/v1637244240/icons/gsap_nqdndw.png" alt="GSAP" width="50" height="50" style="vertical-align: top;">
@@ -16,8 +16,7 @@ We work with **Oxygen Builder, WordPress Developpement, Greensock, Figma, D3.js,
 <img src="https://res.cloudinary.com/citywizz/image/upload/v1637246521/icons/Logo-Google-Search_fmzfox.svg" alt="GoogleSearch" width="50" height="50">  
 <img src="https://res.cloudinary.com/citywizz/image/upload/v1637246505/icons/Logo-Google-My-Business_aiqsop.svg" alt="GoogleSearch" width="50" height="50">
 <img src="https://res.cloudinary.com/citywizz/image/upload/v1637246493/icons/Google-Analytics_m8dbdn.svg" alt="GoogleSearch" width="50" height="50">
-  </div>
-
+</div>
 
 Citywizz publishes **news media, directories and online encyclopedic websites** like Kabyle.com, Amazigh 24, Lyon Info and VisitArpitania.
 
